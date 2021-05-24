@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameVelha</string>
+    <string name="turno">Vez do Jogador do Flamengo</string>
+    <string name="vencedor">Ninguém ganhou ainda!</string>string>
+</resources>
